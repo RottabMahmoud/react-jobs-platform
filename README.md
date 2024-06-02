@@ -24,13 +24,13 @@ npm install
 
 ## To Start the App
 
-## 1st Start the Server
+## Launch the Server
 
 ```bash
 npm run server
 ```
 
-## 2nd Run the Frontend project
+## Run the Frontend project
 
 ```bash
 npm run dev
